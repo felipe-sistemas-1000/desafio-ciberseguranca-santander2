@@ -19,6 +19,6 @@ Outro detalhe é que esse tipo de ataque precisa encriptar arquivos em massa no 
 isso poderia passar despercebido pelo antivírus.
 
 Em resumo, para se mitigar esses tipo de ameaça, devem ser feitas pelo menos duas frentes de trabalho: 
-1-Confirgurar o sistema (Antivírus, firewall, permissões limitadas para determinados usuários, utilização de máquinas virtuais, etc.);
-2-Treinar usuários a respeito de ameaças e sempre reforçar comportamentos defensivos (não abrir programas desconhecidos, não acessar
+1.Confirgurar o sistema (Antivírus, firewall, permissões limitadas para determinados usuários, utilização de máquinas virtuais, etc.);
+2.Treinar usuários a respeito de ameaças e sempre reforçar comportamentos defensivos (não abrir programas desconhecidos, não acessar
 sites duvidosos, etc.).
